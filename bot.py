@@ -10,17 +10,17 @@ DISCORD_TOKEN = "NDUzNTU0MjE2OTI1OTIxMjgw.Dfgv6Q.tRtRm184XhX3o1w0iqQOeEApHYk"
 FORTNITE_API_KEY = 'ddff1624-beae-4000-948e-8a9f051a2dbf'
 
 rank_range_dict = {
-    'Wood': [0.00, 0.99], 
-    'Carton': [1.00, 1.49], 
-    'Bronze': [1.50, 1.99], 
-    'Silver': [2.00, 2.49], 
-    'Gold': [2.50, 2.99], 
-    'Platinum': [3.00, 3.49], 
-    'Diamond': [3.50, 3.99], 
-    'Ruby': [4.00, 4.99], 
-    'Royality': [5.00, 5.99], 
-    'Illuminati': [6.00, 7.99], 
-    'Hackeur': [8.00, 100.00]
+    'Wood': [0.00, 1.00], 
+    'Carton': [1.01, 2.99], 
+    'Bronze': [3.00, 4.00], 
+    'Silver': [4.01, 5.00], 
+    'Gold': [5.01, 5.99], 
+    'Platinum': [5.99, 6.99], 
+    'Diamond': [6.99, 7.99], 
+    'Ruby': [7.99, 8.99], 
+    'Royality': [8.99, 9.99], 
+    'Illuminati': [9.99, 10.99], 
+    'Hackeur': [10.99, 20.00]
 }
 
 # Return the overall K/D of the fortnite player pass in parameter
