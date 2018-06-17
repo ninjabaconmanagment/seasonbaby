@@ -11,10 +11,10 @@ FORTNITE_API_KEY = 'ddff1624-beae-4000-948e-8a9f051a2dbf'
 
 rank_range_dict = {
     'Wood': [0.00, 1.00], 
-    'Carton': [1.01, 2.99], 
+    'Carton': [1.00, 2.99], 
     'Bronze': [3.00, 4.00], 
-    'Silver': [4.01, 5.00], 
-    'Gold': [5.01, 5.99], 
+    'Silver': [4.00, 5.00], 
+    'Gold': [5.00, 5.99], 
     'Platinum': [5.99, 6.99], 
     'Diamond': [6.99, 7.99], 
     'Ruby': [7.99, 8.99], 
